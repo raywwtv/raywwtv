@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil. 😿
 
-<!--
-**raywwtv/raywwtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rayanne.
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou querendo ir embora, e ainda é o primeiro dia de aula depois das férias.
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **você pode entrar em contato comigo.** 🐈
+  
+  00001108919601sp@al.educaacao.sp.gov.br
+  
+  @raay.zxx
+
+![](https://media.tenor.com/J2SMf2oW7XkAAAAi/cat-stare.gif)
