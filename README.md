@@ -3,7 +3,7 @@
 meu nome é Rayanne.
 
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Estou querendo ir embora, e ainda é o primeiro dia de aula depois das férias.
+- Estou me desenvolvendo no Alura.
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
   **você pode entrar em contato comigo.** 🐈
